@@ -1,5 +1,3 @@
-Sure. Here is the **short and easy version** of the complete MNIST experiment, suitable for a lab record/report.
-
 # MNIST Handwritten Digit Classification Using TensorFlow/Keras
 
 ## 1. Aim
